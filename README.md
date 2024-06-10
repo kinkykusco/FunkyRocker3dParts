@@ -26,7 +26,7 @@ The FR plans come in english (imperial) and metric.  I am in the US, and used th
 
 ## Printing suggestions
 
-For reference I printed all the parts on a Bambu P1S in PLA.  Check the readme in each folder for notes about those specific files.  Most of the parts have an obvious side to print towards the bed.  Rounded edges against the bed may not print well unless you allow supports under them.  Otherwise These should print fine without supports, and I would avoid allowing supports into the bolt holes as they can be very difficult to remove.  
+For reference I printed all the parts on a Bambu P1S in PLA.  Check the readme in each folder for notes about those specific files.  The stl's were exported in mm. Most of the parts have an obvious side to print towards the bed.  Rounded edges against the bed may not print well unless you allow supports under them.  Otherwise These should print fine without supports, and I would avoid allowing supports into the bolt holes as they can be very difficult to remove.  
 
 For strength, wall count is generally much more effective then infill.  I printed all these parts with a wall count of 6, 20% infill of gyroid or cross hatch.  Consider variable layer height, especially for the handle, as you want the grip portion with small layer lines to make it feel less 3d printed and more comfortable.
 
