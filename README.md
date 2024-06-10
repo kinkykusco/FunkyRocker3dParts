@@ -32,6 +32,32 @@ For strength, wall count is generally much more effective then infill.  I printe
 
 I finished the 3d parts with light sanding, then three coats of an automotive "building" type spray primer to mostly fill in the layer lines.
 
+## Other suggestions based on my build experience
+
+### Minimum tools required to build the Funky Rocker:
+
+- Router
+- Jigsaw
+- Drill (bits required: 13/32, 5/16, 17/64 (or 1/4, and then widen slightly/expect the bolt to fit tight), 5/8 (with as flat a drill head profile as possible - no spade bits, etc)
+
+### Tools which will make it much easier/more accurate:
+
+- Scroll or Band saw
+- Drill press
+- 3d printer
+
+I printed the plans full size (if you have bought plans and would like to save some time on blowing up the pdf for printing on 8.5x11 paper, send me an email (username AT gmail) with proof you purchased the plans and I will share my already sized PDF's.).  I used scotch spray mount to glue the templates to the mdf, it stuck ok, sometimes the paper would lift up and bind under the jigsaw feet.  Use a nail to indent exactly where a hole must be screwed to increase accuracy.  A drill press is going to get the best accuracy with your drill holes, but I was able to free hand it with a drill just fine, during assembly I needed to increase the diameter of a couple of holes to accomidate some inaccuracy, but it was minor and did not effect the final build strength. Apply painters tape to your drill bits to mark the depth of the cut, or use a drill bit stop collars.
+
+Some of the parts have long flat edges (base left and right, glider left and right are the important ones).  plan to use the factory straight edge on the MDF for those flat portions to get a perfectly straight edge.  I did the same with the Forward Lower Support so I could route the channels perpendicular as required.  It's imperative the channels are parallel to each other so the slide plate can slide forward and back, so take care to route those channels very accurately.
+
+I cut my MDF parts out with a jigsaw.  I found the Diablo brand "Scroll Cut wood" blades worked best, but even so the blade will bend a bit around sharp corners leading to a non perfect 90 degree edge.  This was ok with me, but if not acceptable to you, a scroll or band saw is going to be necessary.
+
+Many of the parts call for a larger diameter shallow depression around the bolt holes.  This allows the bolt or receiver head to sit flush.  The only part where these are a necessity is the top of the seat, so the cushions can sit flush.  Otherwise they're entirely for looks.  In hindsight I would have just skipped them, the bolts are visible either way.  
+
+You need to cut the 1/4" threaded rod.  To do so without totally screwing up the thread, [this method I found on familyhandyman.com works well](https://www.familyhandyman.com/article/cutting-threaded-rod/).  The parts list comes with quite a few extra bolts so no harm if you scratch up a few while cutting the rod.  The plans give an approximate rod length for each application which I found too long. Before you assemble the entire bench for the first time, assemble each part assembly which uses a threaded rod by itself with the uncut rod, find the right length, then take it apart and cut the rod.
+
+When you assemble the bench, attach the glider arms to the inner bench section, then place the bench inside the frame and attach the arms to the frame.  If you attach the arms to the frame first, you cannot get the screwdriver in to attach the arms to the inner bench.
+
 # Updated parts list:
 
 | FR Part # | Qty | 3d print qty | Part name                           | Cost  | Cost 3d printed | Source                                                                                                                                                                                                                                                                                                                        | Notes                                                                                                                                                                   |
