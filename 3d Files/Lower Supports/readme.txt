@@ -1,0 +1,2 @@
+While the individual lower supports are included here, if 3d printing I suggest using the "lower support and slide" located in the slide folder instead, as it integrates the 
+lower supports into the slide plate as one unit.  Then you don't need to print these at all.
