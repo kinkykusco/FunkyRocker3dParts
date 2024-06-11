@@ -1,6 +1,6 @@
 # Overview
 
-The Funky Rocker (FR for short) is a DIY sex rocker.  [The plans are for sale from the designer here for a fair price.](www.funkyrocker.com)  The FR is a nice design, but is definitely designed without much regard to the difficulty in DIY building of it, or in keeping costs down in terms of parts. The original FR plans require a high degree of accuracy in woodworking, which can be extra challenging with the smaller parts. I switched many of the parts to being 3d printed rather then cut from MDF.
+The Funky Rocker (FR for short) is a DIY sex rocker.  [The plans are for sale from the designer here for a fair price.](www.funkyrocker.com)  The FR is a nice design, but is definitely designed without much regard to making it easy to build, or in keeping costs down in terms of parts. The original FR plans require a high degree of accuracy in woodworking, which can be extra challenging with the smaller parts. I switched many of the parts to being 3d printed rather then cut from MDF.
 
 ## Important Notes
 
