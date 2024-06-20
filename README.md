@@ -1,6 +1,6 @@
 # Overview
 
-The Funky Rocker (FR for short) is a DIY sex rocker.  [The plans are for sale from the designer here for a fair price.](www.funkyrocker.com)  The FR is a nice design, but is definitely designed without much regard to the difficulty in DIY building of it, or in keeping costs down in terms of parts. The original FR plans require a high degree of accuracy in woodworking, which can be extra challenging with the smaller parts. I switched many of the parts to being 3d printed rather then cut from MDF.
+The Funky Rocker (FR for short) is a DIY sex rocker.  [The plans are for sale from the designer here for a fair price.](www.funkyrocker.com)  The FR is a nice design, but is definitely designed without much regard to making it easy to build, or in keeping costs down in terms of parts. The original FR plans require a high degree of accuracy in woodworking, which can be extra challenging with the smaller parts. I switched many of the parts to being 3d printed rather then cut from MDF.
 
 ## Important Notes
 
@@ -26,7 +26,7 @@ The FR plans come in english (imperial) and metric.  I am in the US, and used th
 
 ## Printing suggestions
 
-For reference I printed all the parts on a Bambu P1S in PLA.  Check the readme in each folder for notes about those specific files.  Most of the parts have an obvious side to print towards the bed.  Rounded edges against the bed may not print well unless you allow supports under them.  Otherwise These should print fine without supports, and I would avoid allowing supports into the bolt holes as they can be very difficult to remove.  
+For reference I printed all the parts on a Bambu P1S in PLA.  Check the readme in each folder for notes about those specific files.  The stl's were exported in mm. Most of the parts have an obvious side to print towards the bed.  Rounded edges against the bed may not print well unless you allow supports under them.  Otherwise These should print fine without supports, and I would avoid allowing supports into the bolt holes as they can be very difficult to remove.  
 
 For strength, wall count is generally much more effective then infill.  I printed all these parts with a wall count of 6, 20% infill of gyroid or cross hatch.  Consider variable layer height, especially for the handle, as you want the grip portion with small layer lines to make it feel less 3d printed and more comfortable.
 
@@ -59,6 +59,8 @@ You need to cut the 1/4" threaded rod.  To do so without totally screwing up the
 When you assemble the bench, attach the glider arms to the inner bench section, then place the bench inside the frame and attach the arms to the frame.  If you attach the arms to the frame first, you cannot get the screwdriver in to attach the arms to the inner bench.
 
 # Updated parts list:
+
+Below is the parts list from FR updated to take into account changes from the 3d printed parts, along with some swaps I made.  Mostly I changed some parts to use black hardware when possible, and tried to match materials to prevent galvanic corrosion, what little a project like ths might have, anyway.  My parts list comes out a bit cheaper, but that's almost entirely because you don't need to buy the Vac-u-lock adaptor anymore.
 
 | FR Part # | Qty | 3d print qty | Part name                           | Cost  | Cost 3d printed | Source                                                                                                                                                                                                                                                                                                                        | Notes                                                                                                                                                                   |
 | --------: | --: | --: | ----------------------------------- | ----- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
