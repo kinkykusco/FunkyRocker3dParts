@@ -23,6 +23,7 @@ The FR plans come in english (imperial) and metric.  I am in the US, and used th
 | 14        | Mount Link              | 14 + 15 combined as one part                                                                |
 | 15        | Mount                   | 14 + 15 combined as one part                                                                |
 | 17        | Handle                  | Included cut in two with a dovetail for printing on smaller print beds and gluing together. |
+| 17        | Handle Modified         | Version of Handle without the actual handle. Found it just got in the way. Fits on one plate|
 | 33        | Vac-U-Lock adaptor      | 3d printed replacements when using the 3d printed version of part 14+15.                    |
 | N/A       | Drill Guide             | Drill guide for drilling the dowel nut holes on the edge of the MDF. Print upside down.     |
 
