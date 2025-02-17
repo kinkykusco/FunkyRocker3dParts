@@ -1,12 +1,12 @@
 # Overview
 
-The Funky Rocker (FR for short) is a DIY sex rocker.  [The plans are for sale from the designer here for a fair price.](http://www.funkyrocker.com)  The FR is a nice design, but is definitely designed without much regard to making it easy to build, or in keeping costs down in terms of parts. The original FR plans require a high degree of accuracy in woodworking, which can be extra challenging with the smaller parts. I switched many of the parts to being 3d printed rather then cut from MDF.  Below are a couple photos of my finished rocker - can you tell which parts are 3d printed? 
+The Funky Rocker (FR for short) is a DIY sex rocker.  [The plans are for sale from the designer here for a fair price.](http://www.funkyrocker.com)  The FR is a quality design, but is definitely designed without much regard to making it easy to build, or in keeping costs down in terms of parts. The original FR plans require a high degree of accuracy in woodworking, which can be extra challenging with the smaller parts. I switched many of the parts to being 3d printed rather then cut from MDF. After eight months and much use, the 3d printed parts have held up great.  Below are a couple photos of my finished rocker - can you tell which parts are 3d printed? 
 <br>
 <img src="https://raw.githubusercontent.com/kinkykusco/FunkyRocker3dParts/main/readmeimages/Rocker1.jpg" width=48% height=48%> <img src="https://raw.githubusercontent.com/kinkykusco/FunkyRocker3dParts/main/readmeimages/Rocker2.jpg" style="float:right" width=48% height=48%>
 
 ## Important Notes
 
-My 3D models are not intended to replace the purchase and use of the original FR plans. You will still need the original plans to make the rest of the parts and to understand the overall assembly of the FR.
+My 3D models are not intended to replace the purchase of the original FR plans. You will still need the original plans to make the rest of the parts and to understand the overall assembly of the FR.
 
 The FR plans come in english (imperial) and metric.  I am in the US, and used the english plans as the parts were easier to source.  Consequently my 3d printed parts are based off the english plans.  If you're using the metric FR plans, my parts will probably require some modifications to work.
 
@@ -33,7 +33,7 @@ For reference I printed all the parts on a Bambu P1S in PLA.  Check the readme i
 
 For strength, wall count is generally much more effective then infill.  I printed all these parts with a wall count of 6, 20% infill of gyroid or cross hatch.  Consider variable layer height, especially for the handle, as you want the grip portion with small layer lines to make it feel less 3d printed and more comfortable.
 
-I finished the 3d parts with light sanding, then three coats of an automotive "building" type spray primer to mostly fill in the layer lines.
+I finished the 3d parts with light sanding, then three coats of an automotive "building" type spray primer to mostly fill in the layer lines, finally a couple coats of spray paint to finish.
 
 ## Other suggestions based on my build experience
 
