@@ -1,10 +1,10 @@
 # Overview
 
-The Funky Rocker (FR for short) is a DIY sex rocker.  [The plans are for sale from the designer here for a fair price.](www.funkyrocker.com)  The FR is a nice design, but is definitely designed without much regard to making it easy to build, or in keeping costs down in terms of parts. The original FR plans require a high degree of accuracy in woodworking, which can be extra challenging with the smaller parts. I switched many of the parts to being 3d printed rather then cut from MDF.
+The Funky Rocker (FR for short) is a DIY sex rocker.  [The plans are for sale from the designer here for a fair price.](www.funkyrocker.com)  The FR is a nice design, but is definitely designed without much regard to making it easy to build, or in keeping costs down in terms of parts. The original FR plans require a high degree of accuracy in woodworking, which can be extra challenging with the smaller parts. I switched many of the parts to being 3d printed rather then cut from MDF.  After eight months and quite a few rocking sessions, I can say the rocker is great, and these 3d printed parts work perfect and have held up fine.
 
 ## Important Notes
 
-My 3D models are not intended to replace the purchase and use of the original FR plans. You will still need the original plans to make the rest of the parts and to understand the overall assembly of the FR.
+My 3D models are not intended to replace the purchase of the original FR plans. You will still need the original plans to make the rest of the parts and to understand the overall assembly of the FR.
 
 The FR plans come in english (imperial) and metric.  I am in the US, and used the english plans as the parts were easier to source.  Consequently my 3d printed parts are based off the english plans.  If you're using the metric FR plans, my parts will probably require some modifications to work.
 
@@ -30,7 +30,7 @@ For reference I printed all the parts on a Bambu P1S in PLA.  Check the readme i
 
 For strength, wall count is generally much more effective then infill.  I printed all these parts with a wall count of 6, 20% infill of gyroid or cross hatch.  Consider variable layer height, especially for the handle, as you want the grip portion with small layer lines to make it feel less 3d printed and more comfortable.
 
-I finished the 3d parts with light sanding, then three coats of an automotive "building" type spray primer to mostly fill in the layer lines.
+I finished the 3d parts with light sanding, then three coats of an automotive "building" type spray primer to mostly fill in the layer lines, followed with a spray paint finish.
 
 ## Other suggestions based on my build experience
 
@@ -46,7 +46,7 @@ I finished the 3d parts with light sanding, then three coats of an automotive "b
 - Drill press
 - 3d printer
 
-I printed the plans full size (if you have bought plans and would like to save some time on blowing up the pdf for printing on 8.5x11 paper, send me an email (username AT gmail) with proof you purchased the plans and I will share my already sized PDF's.).  I used scotch spray mount to glue the templates to the mdf, it stuck ok, sometimes the paper would lift up and bind under the jigsaw feet.  Use a nail to indent exactly where a hole must be screwed to increase accuracy.  A drill press is going to get the best accuracy with your drill holes, but I was able to free hand it with a drill just fine, during assembly I needed to increase the diameter of a couple of holes to accomidate some inaccuracy, but it was minor and did not effect the final build strength. Apply painters tape to your drill bits to mark the depth of the cut, or use a drill bit stop collars.
+I printed the plans full size (if you have bought plans and would like to save some time on blowing up the pdf for printing on 8.5x11 paper, send me an email (username AT gmail) with proof you purchased the plans and I will share my already sized PDF's.).  I used scotch spray mount to glue the templates to the mdf, it stuck ok, sometimes the paper would lift up and bind under the jigsaw feet.  Use a nail to indent exactly where a hole must be screwed to increase accuracy.  A drill press is going to get the best accuracy with your drill holes, but I was able to free hand it with a drill just fine, during assembly I needed to increase the diameter of a couple of holes to accomidate some inaccuracy, but it was minor and did not effect the final build strength. Apply painters tape to your drill bits to mark the depth of the cut, or use a drill bit stop collar.
 
 Some of the parts have long flat edges (base left and right, glider left and right are the important ones).  plan to use the factory straight edge on the MDF for those flat portions to get a perfectly straight edge.  I did the same with the Forward Lower Support so I could route the channels perpendicular as required.  It's imperative the channels are parallel to each other so the slide plate can slide forward and back, so take care to route those channels very accurately.
 
